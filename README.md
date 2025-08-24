@@ -12,7 +12,7 @@
 <h1 align="center">👋 Hey there, I'm Niraj Khadse</h1>
 
 <p align="center">
-💼 Architecture & Cost Startegy Senior Engineer @ Whirlpool | 🧠 R&D Engineer turned Business Strategist | 📍 Pune, India  
+💼 Architecture & Cost Strategy Senior Engineer @ Whirlpool | 🧠 R&D Engineer turned Business Strategist | 📍 Pune, India  
 </p>
 
 ---
